@@ -20,7 +20,7 @@
   --accent: 229,184,237; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 2; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Manrope; /* Custom font | Default: 'Inter' */
-  --channels-width: 250px; /* Width of the channels list. | Default: 300px */
+  --channels-width: 275px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 80px; /* Width of the server list. | Default: 105px */
   --members-width: 220px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
