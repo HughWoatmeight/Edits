@@ -18,7 +18,7 @@
   --background-blur: 0px; /* Blur intensity of --background-image */
   --opacity: 0.85; /* Opacity of overall app. | Default: .85 */
   --accent: 103,0,179; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
-  --glow-intensity: 2; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
+  --glow-intensity: 1; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Manrope; /* Custom font | Default: 'Inter' */
   --channels-width: 275px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 75px; /* Width of the server list. | Default: 105px */
