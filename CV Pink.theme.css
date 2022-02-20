@@ -1,5 +1,5 @@
 /**
- * @name CV Pink Discolored RS
+ * @name CV Pink RS
  * @author ClearVision Team edited by HWM8
  * @version 6.1.1
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -10,7 +10,6 @@
 
 @import url('https://clearvision.gitlab.io/v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #FF69B4;
