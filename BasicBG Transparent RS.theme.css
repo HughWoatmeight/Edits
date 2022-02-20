@@ -1,6 +1,6 @@
 /**
  * @name BasicBG Transparent RS
- * @author DevilBro
+ * @author DevilBro edited by HWM8
  * @version 1.0.5
  * @description Allows you to use a background image without greatly altering the basic look of Discord.
  * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
@@ -13,6 +13,7 @@
 
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
   --background: transparent;
@@ -59,5 +60,3 @@
 }
 
 /* Any custom CSS below here */
-
-
