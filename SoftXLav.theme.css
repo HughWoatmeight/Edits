@@ -47,6 +47,6 @@
 /* Any custom CSS below here */
 #app-mount .sidebar-1tnWFu .unread-2wipsx {
   background: lavender;
-  color: #D2D2F6;
+  color: black;
   box-shadow: 0 0 calc(var(--glow-intensity) * 5px) #F6F6FD;
 }
