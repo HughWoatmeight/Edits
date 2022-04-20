@@ -8,6 +8,7 @@
 */
 
 @import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 /* ═══════『 ⚠️・Important tips 』═══════
 *
@@ -39,7 +40,7 @@
 *   ℹ️ : This background isn't and cannot be linked to the new Nitro banners or USRBG 
 */
 
---status-background: url('https://i.imgur.com/ODa8LKK.jpg');
+--status-background: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
 
 /* ═══════『 ⚙️ / 🎤 / 🎧 ・ User button 』═══════
 *
@@ -79,7 +80,7 @@
 /* ═══════『 📜 Server/channel list 』═══════ */
 
 /* Mention - Default value : #F04747 */
---mention-color: #F04747;
+--mention-color: #9C27B0;
 
 /* Unread - Default value : #7289DA */
 --unread-color: #7289DA;
