@@ -1,5 +1,5 @@
 /**
- * @name CVPurple
+ * @name CVLav
  * @author ClearVision Team
  * @version 6.1.1
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -98,7 +98,7 @@
   --rs-dnd-color: #f04747;
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
-  --rs-phone-visible: block;
+  --rs-phone-visible: none;
 }
 
 /* Any custom CSS below here */
