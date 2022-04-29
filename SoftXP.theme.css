@@ -40,8 +40,12 @@
   --rs-streaming-color: #643da7; /* Colour for streaming status */
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+  --TB-width: 40px;
 }
 
 /* Any custom CSS below here */
-
-
+#app-mount .sidebar-1tnWFu .unread-2wipsx {
+  background: #FF5733;
+  color: white;
+  box-shadow: 0 0 calc(var(--glow-intensity) * 5px) #F6F6FD;
+}
