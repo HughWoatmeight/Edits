@@ -1,5 +1,5 @@
 /**
- * @name SoftXP
+ * @name SoftXB
  * @author Gibbu#1211
  * @version 1.0.0
  * @description A soft and comfy feel for Discord.
@@ -45,7 +45,7 @@
 
 /* Any custom CSS below here */
 #app-mount .sidebar-1tnWFu .unread-2wipsx {
-  background: #FF5733;
+  background: #0080ff;
   color: white;
   box-shadow: 0 0 calc(var(--glow-intensity) * 5px) #F6F6FD;
 }
