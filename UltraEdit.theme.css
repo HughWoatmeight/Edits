@@ -10,11 +10,10 @@
 */
 
 /* Imports */
-@import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css");
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 /* Source */
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Ultra/Clients/betterdiscord.css");
@@ -55,9 +54,15 @@
     --channels-default: #4a4a52;
     --selected-indicator: #97ffa5;
     --hover-indicator: #ffffff;
-    --font: "Lato";
-    --code-font: "Source Code Pro";
+    --font: "Manrope";
+    --code-font: "Atkinson Hyperlegible";
     --boost-bar: none;
 }
 
 /* Made By The Commie Axolotl */
+.scrollerBase-_bVAAt::-webkit-scrollbar,
+.peopleList-2VBrVI::-webkit-scrollbar,
+.scroller-kQBbkU::-webkit-scrollbar,
+.scroller-3j5xK2::-webkit-scrollbar {
+    display: flex !important;
+}
