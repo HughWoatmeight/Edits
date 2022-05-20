@@ -12,6 +12,7 @@
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
 @import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css')
 
 :root {
   --background-image: url('https://getwallpapers.com/wallpaper/full/7/6/e/577004.jpg'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
@@ -40,8 +41,12 @@
   --rs-streaming-color: #643da7; /* Colour for streaming status */
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+  --TB-width: 40px;
 }
 
 /* Any custom CSS below here */
-
-
+#app-mount .sidebar-1tnWFu .unread-2wipsx {
+  background: #A7C7E7;
+  color: white;
+  box-shadow: 0 0 calc(var(--glow-intensity) * 5px) #F6F6FD;
+}
