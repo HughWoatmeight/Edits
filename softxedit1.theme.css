@@ -24,10 +24,10 @@
   --accent: 249,116,251; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 2; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Fira Sans; /* Custom font | Default: 'Inter' */
-  --channels-width: 250px; /* Width of the channels list. | Default: 300px */
-  --guilds-width: 70px; /* Width of the server list. | Default: 105px */
-  --members-width: 200px; /* Width of the members list. | Default: 280px */
-  --server-size: 35px; /* Size of the servers inside the server list. | Default: 50px */
+  --channels-width: 300px; /* Width of the channels list. | Default: 300px */
+  --guilds-width: 105px; /* Width of the server list. | Default: 105px */
+  --members-width: 280px; /* Width of the members list. | Default: 280px */
+  --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
   --chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
   --rs-medium-spacing: 2px; /* Gap between avatar and status for User popout | MUST end in px */
